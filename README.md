@@ -2,10 +2,7 @@
 
 **Transform your ImageRouter.io API key into a professional desktop app.** No CLI complexity—just point, click, generate, and download stunning AI images from 50+ free models.
 
-[
-[
-[
-[
+<img src='https://github.com/fabiomatricardi/imagerouter-python-AI-image-generation-app/raw/main/2026-01-28%2015%2059%2005.png' width=500><img src='https://github.com/fabiomatricardi/imagerouter-python-AI-image-generation-app/raw/main/2026-01-28%2015%2059%2017.png' width=500>
 
 ## ✨ Features
 
